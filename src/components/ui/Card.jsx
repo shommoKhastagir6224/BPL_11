@@ -17,7 +17,7 @@ const Card = ({
     if (newCoin >= 0) {
       setCoin(coin - player.price);
     } else {
-      toast.error("Not enough coin to purchase this player");
+       toast.error("Not enough coin to purchase this player");
       return;
     }
 
@@ -29,7 +29,7 @@ const Card = ({
   return (
     <div className="card bg-base-100 shadow-sm">
       <figure>
-        <img src={player.playerImg} alt="Shoes" />
+        <img src={player.playerImg} className="h-[400px]" alt="Shoes" />
       </figure>
       <div className="card-body">
         <h2 className="card-title">

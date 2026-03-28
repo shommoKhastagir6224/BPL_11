@@ -1,62 +1,213 @@
 [
   {
-    "playerName": "Virat Kohli",
-    "playerCountry": "India",
-    "playerType": "Batsman",
-    "rating": 9.8,
-    "battingStyle": "Right-hand bat",
-    "bowlingStyle": "Right-arm medium",
-    "price": 500,
-    "playerImg": "https://i.ibb.co.com/LzN0G76H/images.webp"
-  },
-  {
-    "playerName": "Babar Azam",
-    "playerCountry": "Pakistan",
-    "playerType": "Batsman",
-    "rating": 9.5,
-    "battingStyle": "Right-hand bat",
-    "bowlingStyle": "Right-arm offbreak",
-    "price": 1500,
-    "playerImg": "https://i.ibb.co.com/LzN0G76H/images.webp"
-  },
-  {
-    "playerName": "Ben Stokes",
-    "playerCountry": "England",
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
     "playerType": "All-Rounder",
+    "rating": 9.7,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "price": 1200000,
+    "playerImg": "../src/assets/player/Shakib Al Hasan Not Pleased With The Unique BPL Rules -.jpg"
+  },
+  {
+    "playerName": "Tamim Iqbal",
+    "playerCountry": "Bangladesh",
+    "playerType": "Batsman",
     "rating": 9.3,
     "battingStyle": "Left-hand bat",
-    "bowlingStyle": "Right-arm fast-medium",
-    "price": 2500,
-    "playerImg": "https://i.ibb.co.com/LzN0G76H/images.webp"
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 950000,
+    "playerImg": "../src/assets/player/Sports Banner Designs.jpg"
   },
   {
-    "playerName": "Kane Williamson",
-    "playerCountry": "New Zealand",
-    "playerType": "Batsman",
+    "playerName": "Mushfiqur Rahim",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicketkeeper-Batsman",
     "rating": 9.2,
     "battingStyle": "Right-hand bat",
-    "bowlingStyle": "Right-arm offbreak",
-    "price": 1100000,
-    "playerImg": "https://i.ibb.co.com/LzN0G76H/images.webp"
+    "bowlingStyle": "N/A",
+    "price": 900000,
+    "playerImg": "../src/assets/player/download (2).jpg"
   },
   {
-    "playerName": "Rashid Khan",
-    "playerCountry": "Afghanistan",
+    "playerName": "Mustafizur Rahman",
+    "playerCountry": "Bangladesh",
     "playerType": "Bowler",
-    "rating": 9.6,
-    "battingStyle": "Right-hand bat",
-    "bowlingStyle": "Right-arm legbreak",
-    "price": 1300000,
-    "playerImg": "https://i.ibb.co.com/LzN0G76H/images.webp"
+    "rating": 9.4,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": 1100000,
+    "playerImg": "../src/assets/player/download (3).jpg"
   },
   {
-    "playerName": "Jos Buttler",
-    "playerCountry": "England",
+    "playerName": "Mahmudullah Riyad",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 9.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 850000,
+    "playerImg": "../src/assets/player/Mahmudullah Phone Number, House Address, Email ID, Contact Details.jpg"
+  },
+  {
+    "playerName": "Litton Das",
+    "playerCountry": "Bangladesh",
     "playerType": "Wicketkeeper-Batsman",
-    "rating": 9.4,
+    "rating": 9.1,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "N/A",
-    "price": 1250000,
-    "playerImg": "https://i.ibb.co.com/LzN0G76H/images.webp"
+    "price": 880000,
+    "playerImg": "../src/assets/player/Bangladesh batter Litton Das ruled out of Asia Cup 2023; replacement announced.jpg"
+  },
+  {
+    "playerName": "Soumya Sarkar",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 8.8,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 750000,
+    "playerImg": "../src/assets/player/Soumya Sarkar included in Bangladesh's squad for ACC Men's Emerging Asia Cup 2023.jpg"
+  },
+  {
+    "playerName": "Taskin Ahmed",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "rating": 9.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 800000,
+    "playerImg": "../src/assets/player/Taskin Ahmed Tazim (Bengali_ তাসকিন আহমেদ তাজিম; born 3 April 1995) is a Bangladeshi cricketer_ He i.jpg"
+  },
+  {
+    "playerName": "Mehidy Hasan Miraz",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 9.1,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 870000,
+    "playerImg": "../src/assets/player/Mehidy Hasan Miraz Named Bangladesh ODI Captain.jpg"
+  },
+  {
+    "playerName": "Afif Hossain",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 8.9,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 720000,
+    "playerImg": "../src/assets/player/Rishad Hossain - Rishad Hossain added a new photo_.jpg"
+  },
+  {
+    "playerName": "Nurul Hasan Sohan",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 8.7,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "price": 700000,
+    "playerImg": "../src/assets/player/Rangpur Riders 💙.jpg"
+  },
+  {
+    "playerName": "Mashrafe Mortaza",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "rating": 8.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium-fast",
+    "price": 650000,
+    "playerImg": "../src/assets/player/'I see no reason to be on the back foot’.jpg"
+  },
+  {
+    "playerName": "Anamul Haque",
+    "playerCountry": "Bangladesh",
+    "playerType": "Batsman",
+    "rating": 8.6,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "price": 680000,
+    "playerImg": "../src/assets/player/download (4).jpg"
+  },
+  {
+    "playerName": "Mosaddek Hossain",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 8.8,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 710000,
+    "playerImg": "../src/assets/player/ICC ODI team of the year 2023 Cap.jpg"
+  },
+  {
+    "playerName": "Shoriful Islam",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "rating": 8.9,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": 730000,
+    "playerImg": "../src/assets/player/download (5).jpg"
+  },
+  {
+    "playerName": "Rony Talukdar",
+    "playerCountry": "Bangladesh",
+    "playerType": "Batsman",
+    "rating": 8.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "price": 640000,
+    "playerImg": "../src/assets/player/Bangladesh pick Rony Talukdar after eight years for T20Is against England.jpg"
+  },
+  {
+    "playerName": "Nasum Ahmed",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "rating": 8.7,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "price": 690000,
+    "playerImg": "../src/assets/player/Bangladesh Include Nasum Ahmed For Second Test Against India.jpg"
+  },
+  {
+    "playerName": "Mahedi Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 8.6,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 670000,
+    "playerImg": "../src/assets/player/Mahedi_ Bangladeshis are not power hitters by nature.jpg"
+  },
+  {
+    "playerName": "Imrul Kayes",
+    "playerCountry": "Bangladesh",
+    "playerType": "Batsman",
+    "rating": 8.4,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 600000,
+    "playerImg": "../src/assets/player/Imrul Kayes - I Would Be Ready For A Sudden World Cup Call-Up.jpg"
+  },
+  {
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playerType": "All-Rounder",
+    "rating": 9.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1500000,
+    "playerImg": "../src/assets/player/download (6).jpg"
+  },
+  {
+    "playerName": "Chris Gayle",
+    "playerCountry": "West Indies",
+    "playerType": "Batsman",
+    "rating": 9.4,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1400000,
+    "playerImg": "../src/assets/player/download (7).jpg"
   }
 ]
+   
